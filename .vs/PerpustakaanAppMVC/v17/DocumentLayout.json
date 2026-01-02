@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|c:\\perdiansah sani pratama\\pemrograman lanjut\\pertemuan 12\\mvc - rest api\\perpustakaanappmvc\\perpustakaanappmvc\\controller\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|solutionrelative:perpustakaanappmvc\\controller\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\perpustakaanappmvc\\model\\repository\\mahasiswarestapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|solutionrelative:perpustakaanappmvc\\model\\repository\\mahasiswarestapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\perpustakaanappmvc\\model\\repository\\mahasiswarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|solutionrelative:perpustakaanappmvc\\model\\repository\\mahasiswarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\perpustakaanappmvc\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|solutionrelative:perpustakaanappmvc\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\perpustakaanappmvc\\model\\entity\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C562D44-6132-4909-8B9B-CD3AA0C42171}|PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj|solutionrelative:perpustakaanappmvc\\model\\entity\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Controller\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "PerpustakaanAppMVC\\Controller\\MahasiswaController.cs",
+              "ToolTip": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Controller\\MahasiswaController.cs",
+              "RelativeToolTip": "PerpustakaanAppMVC\\Controller\\MahasiswaController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAswLwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T00:44:03.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MahasiswaRestApiRepository.cs",
+              "DocumentMoniker": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRestApiRepository.cs",
+              "RelativeDocumentMoniker": "PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRestApiRepository.cs",
+              "ToolTip": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRestApiRepository.cs",
+              "RelativeToolTip": "PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRestApiRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAywC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T00:55:16.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MahasiswaRepository.cs",
+              "DocumentMoniker": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRepository.cs",
+              "RelativeDocumentMoniker": "PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRepository.cs",
+              "ToolTip": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRepository.cs",
+              "RelativeToolTip": "PerpustakaanAppMVC\\Model\\Repository\\MahasiswaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T01:04:31.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Context\\DbContext.cs",
+              "RelativeDocumentMoniker": "PerpustakaanAppMVC\\Model\\Context\\DbContext.cs",
+              "ToolTip": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Context\\DbContext.cs",
+              "RelativeToolTip": "PerpustakaanAppMVC\\Model\\Context\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T01:15:48.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Entity\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "PerpustakaanAppMVC\\Model\\Entity\\Mahasiswa.cs",
+              "ToolTip": "C:\\Perdiansah Sani Pratama\\Pemrograman Lanjut\\Pertemuan 12\\MVC - REST API\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\Model\\Entity\\Mahasiswa.cs",
+              "RelativeToolTip": "PerpustakaanAppMVC\\Model\\Entity\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T01:15:42.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
